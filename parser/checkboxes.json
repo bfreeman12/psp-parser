@@ -1,0 +1,21 @@
+{
+    "others":{
+        "Certificate of Citizenship": "yes",
+        "1-5:": "yes",
+        "6-10:":"yes",
+        "11-20:":"yes",
+        "21-30:":"yes",
+        "More than 30:":"yes",
+        "Many short trips:":"yes",
+        "Business/Professional conference:":"yes",
+        "Volunteer activities:":"yes",
+        "Education:":"yes",
+        "Tourism:":"yes",
+        "Trade shows, conferences, and seminars:":"yes",
+        "Visit family or friends:":"yes"
+    },
+    "yes/no":{
+        "fake question":"yes",
+        "other fake question": "no"
+    }
+}

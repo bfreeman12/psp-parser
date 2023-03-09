@@ -1,0 +1,13 @@
+[Unit]
+Description = This service is the PSP parser
+
+[Service]
+Type=simple
+User=ec2-user
+ExecStart=/bin/bash /var/parse
+Restart=on-failure
+RestartSec=5
+TimeoutStartSec=infinity
+
+[Install]
+WantedBy=multi-user.target
